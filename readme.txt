@@ -1,4 +1,6 @@
-Instruction for HW14
+    Instruction for HW14
+1) Python code transforms data
+2) And this code: (\w+)@(\w+).\w+.(\w+)? divides converted email addresses into groups
 
 step 1) Download this repository
 step 2) Open this project HomeWork14
@@ -9,3 +11,4 @@ step 6) Open this site: regex101.com
 step 7) Insert data from output_file.txt in section TEST STRING
 step 8) Copy and insert in section REGULAR EXPRESSION this string: (\w+)@(\w+).\w+.(\w+)?
 step 9) Copy and insert in section SUBSTITUTION this string: user part: $1, domen part: $2, subdomen part: $3
+
